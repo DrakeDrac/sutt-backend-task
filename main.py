@@ -265,7 +265,6 @@ while True:
             
         elif choice == '5':
             save_rooms_to_csv(csv_filename, all_rooms)
-            print("Goodbye!")
             break
             
         else:
